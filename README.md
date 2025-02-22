@@ -4,8 +4,6 @@
 
 This project focuses on optimizing Dell Technologies' quote-to-cash process, specifically for third-party software add-ons in the enterprise business space. As Dell transitions from perpetual licensing to subscription-based models, the goal is to reduce manual processes, accelerate customer quote generation, and establish standardized workflows to minimize future customizations. The project aims to enhance operational efficiency, improve customer satisfaction, and strengthen vendor relationships through automation and streamlined processes.
 
-## Project Structure
-
 ## Key Insights
 
 ## 1. Current Process Challenges

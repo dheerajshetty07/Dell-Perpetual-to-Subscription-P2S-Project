@@ -1,4 +1,4 @@
-## Optimizing Dell Technologies' Quote-to-Cash Process
+# Optimizing Dell Technologies' Quote-to-Cash Process
 
 ## Project Overview
 
